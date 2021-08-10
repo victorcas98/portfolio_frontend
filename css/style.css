@@ -702,6 +702,10 @@ img{
     bottom: 5rem;
 }
 
+.red{
+    color: red;
+}
+
 /*========== SCROLL BAR ==========*/
 ::-webkit-scrollbar{
     width: .60rem;
